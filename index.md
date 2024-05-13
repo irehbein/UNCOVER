@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# UNCOVER
-
-## Welcome to the project website of the UNCOVER project.
+# Welcome to the UNCOVER project website 
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the DFG.
+
+![Logo](/assets/img/logo.png)
+
 
 ## Project description
 
