@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Welcome to the UNCOVER project website 
-<div style="text-align:right">![](/assets/img/logo_uma_small.png)</div>
+<div style="text-align:right">
+![](/assets/img/logo_uma_small.png)
+</div>
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the [DFG](https://www.dfg.de).
