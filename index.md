@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Welcome to the UNCOVER project website 
-![](/assets/img/logo_uma_small2.png)
+<img style="float: right;" src="/assets/img/logo_uma_small.png"/ alt="Logo University of Mannheim">
 
-x
+
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the [DFG](https://www.dfg.de).
