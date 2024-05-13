@@ -54,8 +54,11 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora_, co-located with LREC-COLING 2024. Torino, Italy.
 
-* Ines Rehbein (2023): Towards modelling populist rhetoric in political text. Invited talk in the [SOWI Kolloquium](https://www.sowi.uni-stuttgart.de/institut/aktuelles/Ines-Rehbein-Towards-modelling-populist-rhetoric-in-political-text). Stuttgart, Germany.
+* Ines Rehbein (2023): Towards modelling populist rhetoric in political text. Invited talk in the [SOWI Kolloquium](https://www.sowi.uni-stuttgart.de/institut/aktuelles/Ines-Rehbein-Towards-modelling-populist-rhetoric-in-political-text), 11.07.2023. Stuttgart, Germany.
 
+<br/>
+
+--- 
 
 ## Resources
 
