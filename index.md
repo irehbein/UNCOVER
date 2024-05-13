@@ -2,10 +2,9 @@
 layout: default
 ---
 
-![](/assets/img/logo_uma_small.png)
-
 # Welcome to the UNCOVER project website 
 
+![](/assets/img/logo_uma_small.png)
 
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
