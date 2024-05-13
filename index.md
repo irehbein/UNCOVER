@@ -3,9 +3,7 @@ layout: default
 ---
 
 # Welcome to the UNCOVER project website 
-<img style="float: right;" src="/assets/img/logo_uma_small.png"/ alt="Logo University of Mannheim">
-
-
+<div style="text-align:right">![](/assets/img/logo_uma_small.png)</div>
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the [DFG](https://www.dfg.de).
@@ -44,18 +42,18 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ## Publications
 
-* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of LREC-COLING 2024_. Torino, Italy.
+* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy.
 
-* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of LREC-COLING 2024_. Torino, Italy.
+* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy.
 
 * Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy.
 
 
 ## Talks
 
-* Ines Reinig (2024): How to do politics with words: Analyzing the framing of political issues through the lens of speech acts. Presentation at the Workshop _Towards linguistically motivated computational models of framing_ at the DGfS Annual Meeting 2024. Bochum, Germany. [abstract](https://dev3.imp10.ruhr-uni-bochum.de/dgfs/mam/ag6-reinig-at-al.pdf)
+* Ines Reinig (2024): How to do politics with words: Analyzing the framing of political issues through the lens of speech acts. Presentation at the Workshop _[Towards linguistically motivated computational models of framing](https://sites.google.com/view/dgfs2024-framing/home-page)_ at the DGfS Annual Meeting 2024. Bochum, Germany. [abstract](https://dev3.imp10.ruhr-uni-bochum.de/dgfs/mam/ag6-reinig-at-al.pdf)
 
-* Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora_, co-located with LREC-COLING 2024. Torino, Italy.
+* Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _[ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy.
 
 * Ines Rehbein (2023): Towards modelling populist rhetoric in political text. Invited talk in the [SOWI Kolloquium](https://www.sowi.uni-stuttgart.de/institut/aktuelles/Ines-Rehbein-Towards-modelling-populist-rhetoric-in-political-text), 11.07.2023. Stuttgart, Germany.
 
