@@ -60,25 +60,15 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 <br/>
 
---- 
-
 
 ## Resources
 
-
-### GePaDe-ORL Corpus
-
-* A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates [(data)](https://github.com/umanlp/GePaDe-ORL)
-
-![Opinion Role Labelling](/assets/img/orl.png)
+The following resources have been created in the UNCOVER project:
 
 <br/>
 
----
 
-<br/>
-
-### GePaDe-SpeechAct Classification
+### GePaDe-SpeechAct 
 
 * How to do politics with words: Investigating speech acts in parliamentary debates [(data and models)](https://github.com/umanlp/speechact)
 
@@ -90,11 +80,26 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 <br/>
 
-### GePaDe-SpkAtt Corpus
+The following resources have been partially funded by the [GSCL](https://www.gscl.org/) and the [Ministry of Science, Research and the Arts Baden Württemberg (MWK)](https://mwk.baden-wuerttemberg.de/en/home):
+
+<br/>
+
+### GePaDe-SpkAtt 
 
 * Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates [(data and models)](https://github.com/umanlp/spkatt)
 
 ![Speaker Attribution](/assets/img/spkatt.png)
+
+<br/>
+
+<br/>
+
+
+### GePaDe-ORL 
+
+* A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates [(data)](https://github.com/umanlp/GePaDe-ORL)
+
+![Opinion Role Labelling](/assets/img/orl.png)
 
 <br/>
 
