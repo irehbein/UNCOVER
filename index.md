@@ -60,6 +60,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 --- 
 
+
 ## Resources
 
 
@@ -70,10 +71,11 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ![Opinion Role Labelling](/assets/img/orl.png)
 
-<br/><br/>
+<br/>
 
 ---
 
+<br/>
 
 ### GePaDe-SpeechAct Classification
 
@@ -82,10 +84,11 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ![Speech act schema](/assets/img/schema_speechacts.png)
 
-<br/><br/>
+<br/>
 
 ---
 
+<br/>
 
 ### GePaDe-SpkAtt Corpus
 
@@ -94,9 +97,11 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ![Speaker Attribution](/assets/img/spkatt.png)
 
-<br/><br/>
+<br/>
 
 ---
+
+<br/>
 
 ### GePaDe-Mope
 
@@ -111,7 +116,8 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 
 
-<br/><br/>
+<br/>
 
 ---
+
 
