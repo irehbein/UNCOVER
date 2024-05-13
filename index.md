@@ -24,7 +24,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 </div>
 <br/><br/>
 
-![UNCOVER](/assets/img/logo.png)
+![](/assets/img/logo.png)
 
 <br/>
 
@@ -45,7 +45,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of LREC-COLING 2024_. Torino, Italy.
 
-* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora_, co-located with LREC-COLING 2024. Torino, Italy.
+* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy.
 
 
 ## Talks
