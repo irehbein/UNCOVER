@@ -7,8 +7,6 @@ layout: default
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the DFG.
 
-![Logo](/assets/img/logo.png)
-
 
 ## Project description
 
@@ -25,6 +23,10 @@ and frame-semantic parsing. We use our representations to investigate research q
 focusing on frame and ideology coherence as well as the evolution of frames over time.
 </div>
 <br/><br/>
+
+![UNCOVER](/assets/img/logo.png)
+
+<br/>
 
 ## News
 
