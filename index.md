@@ -2,6 +2,26 @@
 layout: default
 ---
 
+Welcome to the project website of the UNCOVER project.
+
+# Project description
+
+Uncovering ideological frames in political discourses (UNCOVER)
+is a project funded by the DFG.
+
+Detecting ideological stances of political actors has mostly been approached by
+employing variations of lexical features over textual statements or learning latent
+representations in a mostly unsupervised manner. That is, previous approaches trade off
+interpretability for depth of semantic and pragmatic analysis. The goal of this project
+is to acquire human-interpretable representations of ideological framing from text 
+that take up previous work in political science by modelling entity-centric and topic-specific 
+ideological frames, their participants and latent moral values in a bottom-up fashion. 
+Our approach brings together ideas from Narrative Policy Framework, Moral Foundations Theory 
+and frame-semantic parsing. We use our representations to investigate research questions
+focusing on frame and ideology coherence as well as the evolution of frames over time.
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
