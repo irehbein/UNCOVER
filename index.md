@@ -5,7 +5,7 @@ layout: default
 # Welcome to the UNCOVER project website 
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
-is a project funded by the DFG.
+is a project funded by the [DFG](https://www.dfg.de).
 
 
 ## Project description
@@ -33,9 +33,9 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 * Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024] in Vienna, Austria. (https://konvens-2024.univie.ac.at/).
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
 
-* Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
+* Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa, taking place at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
 
-* Co-organising a Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. [codalab](https://codalab.lisn.upsaclay.fr/competitions/10431), [data](https://github.com/umanlp/SpkAtt-2023)
+* Co-organising a [Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023)](https://codalab.lisn.upsaclay.fr/competitions/10431) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. [Data](https://github.com/umanlp/SpkAtt-2023)
 
 
 
@@ -54,23 +54,10 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora_, co-located with LREC-COLING 2024. Torino, Italy.
 
+* Ines Rehbein (2023): Towards modelling populist rhetoric in political text. Invited talk in the [SOWI Kolloquium](https://www.sowi.uni-stuttgart.de/institut/aktuelles/Ines-Rehbein-Towards-modelling-populist-rhetoric-in-political-text). Stuttgart, Germany.
+
 
 ## Resources
-
-### GePaDe-Mope
-
-* Our kind of people? Detecting populist references in political debates (data and models)
-[GePaDe-Mope](https://github.com/umanlp/mope) 
-
-
-![Mentions of the People and the Elite (MoPE)](/assets/img/mope.png)
-
-
-![Mentions of the People and the Elite (MoPE)](/assets/img/people.png)
-
-<br/><br/>
-
----
 
 
 ### GePaDe-ORL Corpus
@@ -104,8 +91,24 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ![Speaker Attribution](/assets/img/spkatt.png)
 
-<br/>
+<br/><br/>
 
 ---
 
+### GePaDe-Mope
+
+* Our kind of people? Detecting populist references in political debates (data and models)
+[GePaDe-Mope](https://github.com/umanlp/mope)
+
+
+![Mentions of the People and the Elite (MoPE)](/assets/img/mope.png)
+
+
+![Mentions of the People and the Elite (MoPE)](/assets/img/people.png)
+
+
+
+<br/><br/>
+
+---
 
