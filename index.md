@@ -4,7 +4,7 @@ layout: default
 
 # UNCOVER
 
-### Welcome to the project website of the UNCOVER project.
+## Welcome to the project website of the UNCOVER project.
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the DFG.
@@ -23,11 +23,11 @@ Our approach brings together ideas from Narrative Policy Framework, Moral Founda
 and frame-semantic parsing. We use our representations to investigate research questions
 focusing on frame and ideology coherence as well as the evolution of frames over time.
 </div>
-
+<br/><br/>
 
 ## News
 
-* Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024 in Vienna, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/).
+* Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024] in Vienna, Austria. (https://konvens-2024.univie.ac.at/).
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
 
 * Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
@@ -57,21 +57,20 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 ### GePaDe-Mope
 
 * Our kind of people? Detecting populist references in political debates (data and models)
-
 [GePaDe-Mope](https://github.com/umanlp/mope)
 
 
 ### GePaDe-ORL Corpus
 
 * A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates (Data)
-
 [GePaDe-ORL](https://github.com/umanlp/GePaDe-ORL)
 
 
 ### GePaDe-Speech Act Classification
 
-* How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
+<img src="{{ /assets/images/patterns.png }}" width="48" height="48">
 
+* How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
 [GePaDe-SpeechAct](https://github.com/umanlp/speechact)
 
 
