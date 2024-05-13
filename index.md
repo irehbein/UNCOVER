@@ -2,14 +2,16 @@
 layout: default
 ---
 
-# Welcome to the project website of the UNCOVER project.
+# UNCOVER
+
+### Welcome to the project website of the UNCOVER project.
 
 **Uncovering ideological frames in political discourses (UNCOVER)**<br/>
 is a project funded by the DFG.
 
 ## Project description
 
-<p class="justified-text">
+<div style="text-align: justify">
 Detecting ideological stances of political actors has mostly been approached by
 employing variations of lexical features over textual statements or learning latent
 representations in a mostly unsupervised manner. That is, previous approaches trade off
@@ -20,7 +22,7 @@ ideological frames, their participants and latent moral values in a bottom-up fa
 Our approach brings together ideas from Narrative Policy Framework, Moral Foundations Theory 
 and frame-semantic parsing. We use our representations to investigate research questions
 focusing on frame and ideology coherence as well as the evolution of frames over time.
-</p>
+</div>
 
 
 ## News
@@ -29,6 +31,8 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
 
 * Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
+
+* Co-organising a Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. [codalab](https://codalab.lisn.upsaclay.fr/competitions/10431), [data](https://github.com/umanlp/SpkAtt-2023)
 
 
 
@@ -50,6 +54,30 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ## Resources
 
+### GePaDe-Mope
 
+* Our kind of people? Detecting populist references in political debates (data and models)
+
+[GePaDe-Mope](https://github.com/umanlp/mope)
+
+
+### GePaDe-ORL Corpus
+
+* A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates (Data)
+
+[GePaDe-ORL](https://github.com/umanlp/GePaDe-ORL)
+
+
+### GePaDe-Speech Act Classification
+
+* How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
+
+[GePaDe-SpeechAct](https://github.com/umanlp/speechact)
+
+
+### GePaDe-SpkAtt Corpus
+
+* Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates (data and models)
+[GePaDe-SpkAtt](https://github.com/umanlp/spkatt)
 
 
