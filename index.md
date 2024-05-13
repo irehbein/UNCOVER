@@ -57,28 +57,46 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ### GePaDe-Mope
 
+![Mentions of the People and the Elite (MoPE)](/assets/img/mope.png)
+
+
+![Mentions of the People and the Elite (MoPE)](/assets/img/people.png)
+
+
 * Our kind of people? Detecting populist references in political debates (data and models)
-[GePaDe-Mope](https://github.com/umanlp/mope)
+[GePaDe-Mope](https://github.com/umanlp/mope) <br/>
+
+--
 
 
 ### GePaDe-ORL Corpus
 
-* A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates (Data)
-[GePaDe-ORL](https://github.com/umanlp/GePaDe-ORL)
+![Opinion Role Labelling](/assets/img/orl.png)
+
+* A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates (data)
+[GePaDe-ORL](https://github.com/umanlp/GePaDe-ORL) <br/>
+
+--
 
 
-### GePaDe-Speech Act Classification
+### GePaDe-SpeechAct Classification
 
 ![Speech act schema](/assets/img/schema_speechacts.png)
 
 
 * How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
-[GePaDe-SpeechAct](https://github.com/umanlp/speechact)
+[GePaDe-SpeechAct](https://github.com/umanlp/speechact) <br/>
+
+--
 
 
 ### GePaDe-SpkAtt Corpus
 
+![Speaker Attribution](/assets/img/spkatt.png)
+
 * Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates (data and models)
-[GePaDe-SpkAtt](https://github.com/umanlp/spkatt)
+[GePaDe-SpkAtt](https://github.com/umanlp/spkatt) <br/>
+
+--
 
 
