@@ -66,7 +66,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 * Our kind of people? Detecting populist references in political debates (data and models)
 [GePaDe-Mope](https://github.com/umanlp/mope) <br/>
 
---
+---
 
 
 ### GePaDe-ORL Corpus
@@ -76,7 +76,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 * A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates (data)
 [GePaDe-ORL](https://github.com/umanlp/GePaDe-ORL) <br/>
 
---
+---
 
 
 ### GePaDe-SpeechAct Classification
@@ -87,7 +87,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 * How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
 [GePaDe-SpeechAct](https://github.com/umanlp/speechact) <br/>
 
---
+---
 
 
 ### GePaDe-SpkAtt Corpus
@@ -97,6 +97,6 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 * Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates (data and models)
 [GePaDe-SpkAtt](https://github.com/umanlp/spkatt) <br/>
 
---
+---
 
 
