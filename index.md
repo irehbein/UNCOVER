@@ -68,7 +68,11 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ### GePaDe-Speech Act Classification
 
-<img src="{{ /assets/images/patterns.png }}" width="48" height="48">
+<img src="{{ /assets/img/schema_speechacts.pdf }}" width="48" height="48">
+
+und nochma
+
+![Speech act schema](assets/img/schema_speechacts.pdf?raw=true "Speech acts in parliamentary debates.")
 
 * How to do politics with words: Investigating speech acts in parliamentary debates (data and models)
 [GePaDe-SpeechAct](https://github.com/umanlp/speechact)
