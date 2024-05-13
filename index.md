@@ -3,6 +3,8 @@ layout: default
 ---
 
 # Welcome to the UNCOVER project website 
+![](/assets/img/logo_uma_small.png)
+
 <div style="text-align:right">
 ![](/assets/img/logo_uma_small.png)
 </div>
@@ -33,10 +35,10 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ## News
 
-* Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024] in Vienna, Austria. (https://konvens-2024.univie.ac.at/).
+* Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/) in Vienna, Austria. 
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
 
-* Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa, taking place at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
+* Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa, taking place at the [DGfS Annual Meeting 2024](https://www.dgfs2024.ruhr-uni-bochum.de). Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
 
 * Co-organising a [Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023)](https://codalab.lisn.upsaclay.fr/competitions/10431) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. 
 
