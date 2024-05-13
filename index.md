@@ -35,7 +35,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Co-organising the Workshop _Towards linguistically motivated computational models of framing_ with Annette Hautli-Janisz and Gabriella Lapesa, taking place at the DGfS Annual Meeting 2024. Bochum, Germany. [Workshop website](https://sites.google.com/view/dgfs2024-framing/home-page)
 
-* Co-organising a [Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023)](https://codalab.lisn.upsaclay.fr/competitions/10431) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. [Data](https://github.com/umanlp/SpkAtt-2023)
+* Co-organising a [Shared Task on Speaker Attribution in Parliamentary Debates (SpkAtt-2023)](https://codalab.lisn.upsaclay.fr/competitions/10431) with Josef Ruppenhofer and Annelen Brunner, co-located with [KONVENS 2023](https://www.thi.de/konvens-2023). Ingolstadt, Germany. 
 
 
 
