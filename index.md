@@ -9,6 +9,7 @@ is a project funded by the DFG.
 
 ## Project description
 
+<p class="justified-text">
 Detecting ideological stances of political actors has mostly been approached by
 employing variations of lexical features over textual statements or learning latent
 representations in a mostly unsupervised manner. That is, previous approaches trade off
@@ -19,7 +20,7 @@ ideological frames, their participants and latent moral values in a bottom-up fa
 Our approach brings together ideas from Narrative Policy Framework, Moral Foundations Theory 
 and frame-semantic parsing. We use our representations to investigate research questions
 focusing on frame and ideology coherence as well as the evolution of frames over time.
-
+</p>
 
 ## Resources
 
