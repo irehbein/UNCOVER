@@ -54,7 +54,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Ines Reinig (2024): How to do politics with words: Analyzing the framing of political issues through the lens of speech acts. Presentation at the Workshop _[Towards linguistically motivated computational models of framing](https://sites.google.com/view/dgfs2024-framing/home-page)_ at the DGfS Annual Meeting 2024. Bochum, Germany. [abstract](https://dev3.imp10.ruhr-uni-bochum.de/dgfs/mam/ag6-reinig-at-al.pdf)
 
-* Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _[ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy.
+* Ines Rehbein (2024): Resources and Methods for Analysing Political Rhetoric and Framing in Parliamentary Debates. Keynote at the _[ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy. ([slides]((https://github.com/irehbein/UNCOVER/blob/master/docs/parlaclarin2024_keynote.pdf))
 
 * Ines Rehbein (2023): Towards modelling populist rhetoric in political text. Invited talk in the [SOWI Kolloquium](https://www.sowi.uni-stuttgart.de/institut/aktuelles/Ines-Rehbein-Towards-modelling-populist-rhetoric-in-political-text), 11.07.2023. Stuttgart, Germany.
 
