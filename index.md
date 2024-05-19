@@ -80,7 +80,7 @@ The following resources have been created in the UNCOVER project or in the conte
 
 <br/>
 
-The following resources have been partially funded by the [GSCL](https://www.gscl.org/) and the [Ministry of Science, Research and the Arts Baden Württemberg (MWK)](https://mwk.baden-wuerttemberg.de/en/home):
+The following resources have been partially funded by the [GSCL](https://www.gscl.org/) and by the [Ministry of Science, Research and the Arts Baden Württemberg (MWK)](https://mwk.baden-wuerttemberg.de/en/home):
 
 <br/>
 
@@ -117,7 +117,6 @@ The following resources have been partially funded by the [GSCL](https://www.gsc
 
 ![Mentions of the People and the Elite (MoPE)](/assets/img/people.png)
 
-The GePaDe-MoPE corpus has been created in the context of the RiSC project on "Automatic detection of populist rhetoric in text", funded by the [MWK](https://mwk.baden-wuerttemberg.de/de/startseite).
 
 
 <br/>
