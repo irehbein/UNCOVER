@@ -43,13 +43,13 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 
 ## Publications
-* Ines Reinig, Maria Becker, Ines Rehbein, Simone Paolo Ponzetto (2024): A Survey on Modelling Morality for Text Analysis. In _Findings of the Association for Computational Linguistics ACL 2024_. Bangkok, Thailand. [(pdf)](https://aclanthology.org/2024.findings-acl.245.pdf)
+* Ines Reinig, Maria Becker, Ines Rehbein, Simone Paolo Ponzetto (2024): A Survey on Modelling Morality for Text Analysis. In _Findings of the Association for Computational Linguistics ACL 2024_. Bangkok, Thailand. ([html](https://aclanthology.org/2024.findings-acl.245/), [pdf](https://aclanthology.org/2024.findings-acl.245.pdf))
 
-* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy. [(pdf)](https://aclanthology.org/2024.lrec-main.1098.pdf)
+* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy. ([html](https://aclanthology.org/2024.lrec-main.1098/), [pdf](https://aclanthology.org/2024.lrec-main.1098.pdf)
 
-* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy. [(pdf)](https://aclanthology.org/2024.lrec-main.727.pdf)
+* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy. ([html](https://aclanthology.org/2024.lrec-main.727/), [pdf](https://aclanthology.org/2024.lrec-main.727.pdf)
 
-* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy. [(pdf)](https://aclanthology.org/2024.parlaclarin-1.24.pdf)
+* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy. ([html](https://aclanthology.org/2024.parlaclarin-1.24/), [pdf](https://aclanthology.org/2024.parlaclarin-1.24.pdf)
 
 
 ## Talks
