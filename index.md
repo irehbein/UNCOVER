@@ -31,7 +31,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 <br/>
 
 ## News
-* Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. [Slides](https://github.com/irehbein/UNCOVER/blob/master/docs/gesis-fall-seminar-irehbein.pdf).
+* Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. [Slides](https://github.com/irehbein/UNCOVER/blob/master/docs/gesis-fall-seminar-2024-irehbein.pdf).
 
 * Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/) in Vienna, Austria. 
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
@@ -44,14 +44,16 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ## Publications
 
-* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy.
+* Ines Rehbein, Josef Ruppenhofer, Annelen Brunner and Simone Paolo Ponzetto (2024): Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org). Torino, Italy.
 
-* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org)_. Torino, Italy.
+* Ines Reinig, Ines Rehbein and Simone Paolo Ponzetto (2024): How to do politics with words: Investigating speech acts in parliamentary debates. In _Proceedings of [LREC-COLING 2024](https://lrec-coling-2024.org). Torino, Italy.
 
-* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV)_, co-located with LREC-COLING 2024. Torino, Italy.
+* Ines Rehbein and Simone Paolo Ponzetto (2024): A new Resource and Baselines for Opinion Role Labelling in German Parliamentary Debates. In _Proceedings of the [ParlaCLARIN IV Workshop on Creating, Analysing, and Increasing Accessibility of Parliamentary Corpora](https://www.clarin.eu/ParlaCLARIN-IV), co-located with LREC-COLING 2024. Torino, Italy.
 
 
 ## Talks
+
+* Ines Rehbein (2024) Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. [Slides](https://github.com/irehbein/UNCOVER/blob/master/docs/gesis-fall-seminar-2024-irehbein.pdf).
 
 * Ines Reinig (2024): How to do politics with words: Analyzing the framing of political issues through the lens of speech acts. Presentation at the Workshop _[Towards linguistically motivated computational models of framing](https://sites.google.com/view/dgfs2024-framing/home-page)_ at the DGfS Annual Meeting 2024. Bochum, Germany. [abstract](https://dev3.imp10.ruhr-uni-bochum.de/dgfs/mam/ag6-reinig-at-al.pdf)
 
