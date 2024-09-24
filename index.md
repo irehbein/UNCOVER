@@ -31,7 +31,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 <br/>
 
 ## News
-* Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. <a href="https://github.com/irehbein/UNCOVER/blob/master/docs/gesis-fall-seminar-2024-irehbein.pdf">slides</a>.
+* Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. <a href="/docs/gesis-fall-seminar-2024-irehbein.pdf" type="application/pdf">slides</a>.
 
 * Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/) in Vienna, Austria. 
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
