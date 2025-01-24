@@ -32,6 +32,8 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 ## News
 
+* Presentation at the Conference on [https://www.staff.universiteitleiden.nl/events/2025/06/generics-and-stereotypes](Generics and stereotypes in discourse: A cross-disciplinary perspective) in Leiden, Netherlands, June 5-6 2025.
+
 * Talk at the Workshop: [https://ambivalentenmity.org/2025/01/08/upcoming-workshop-staging-enmity-from-representation-to-projection-24th-and-25th-january-2025/](Staging Enmity: From Representation to Projection): Towards modelling populist rhetoric in text. 24.01.2025 in Heidelberg.
   
 * Co-organising the 5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), co-located with [KONVENS 2025]() in Hildesheim, Germany. 
