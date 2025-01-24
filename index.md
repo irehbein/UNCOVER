@@ -31,8 +31,14 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 <br/>
 
 ## News
-* Talk on *Potentials and pitfalls of transformer-based text classification for the social sciences* at the [GESIS Fall Seminar on Computational Social Science](https://training.gesis.org/?site=pDetails&child=full&pID=0x6C2F9D88EDAD43D197A2F284BAA9B007), Sep 24, 2024. <a href="https://github.com/irehbein/UNCOVER/blob/master/docs/gesis-fall-seminar-2024-irehbein.pdf" type="application/pdf">slides</a>.
 
+* Talk at the Workshop: [https://ambivalentenmity.org/2025/01/08/upcoming-workshop-staging-enmity-from-representation-to-projection-24th-and-25th-january-2025/](Staging Enmity: From Representation to Projection): Towards modelling populist rhetoric in text. 24.01.2025 in Heidelberg.
+  
+* Co-organising the 5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), co-located with [KONVENS 2025]() in Hildesheim, Germany. 
+[Workshop website coming soon...]()
+
+* Co-organising the next Linguistic Annotation Workshop (LAW XIX) @ ACL 2025 in Vienna, Austria, with a special theme on "Subjectivity and variation in linguistic annotations" and a special focus on the annotation of multidimensional constructs from the political and social sciences. Check out our [https://sigann.github.io/LAW-XIX-2025/](website).
+ 
 * Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/) in Vienna, Austria. 
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
 
