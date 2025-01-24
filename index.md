@@ -36,10 +36,10 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 
 * Talk at the Workshop: [Staging Enmity: From Representation to Projection](https://ambivalentenmity.org/2025/01/08/upcoming-workshop-staging-enmity-from-representation-to-projection-24th-and-25th-january-2025/): Towards modelling populist rhetoric in text. 24.01.2025 in Heidelberg.
   
-* Co-organising the 5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), co-located with [KONVENS 2025]() in Hildesheim, Germany. 
+* Co-organising the 5th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), to be co-located with [KONVENS 2025]() in Hildesheim, Germany. 
 [Workshop website coming soon...]()
 
-* Co-organising the next Linguistic Annotation Workshop (LAW XIX) @ ACL 2025 in Vienna, Austria, with a special theme on "Subjectivity and variation in linguistic annotations" and a special focus on the annotation of multidimensional constructs from the political and social sciences. Check out our [https://sigann.github.io/LAW-XIX-2025/](website).
+* Co-organising the next Linguistic Annotation Workshop (LAW XIX) @ ACL 2025 in Vienna, Austria, with a special theme on "Subjectivity and variation in linguistic annotations" and a special focus on the annotation of multidimensional constructs from the political and social sciences. Check out our [website](https://sigann.github.io/LAW-XIX-2025/).
  
 * Co-organising the 4th Workshop on Computational Linguistics for the Political and Social Sciences (CPSS), taking place on Sep 13, 2024, co-located with [KONVENS 2024](https://konvens-2024.univie.ac.at/) in Vienna, Austria. 
 [Workshop website](https://sites.google.com/view/cpss2024konvens/home-page)
