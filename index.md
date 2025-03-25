@@ -53,7 +53,7 @@ focusing on frame and ideology coherence as well as the evolution of frames over
 ## Publications
 * Ines Rehbein, Lilly Brauner, Florian Ertz, Ines Reinig, Simone Paolo Ponzetto (2025): Moral reckoning: How reliable are dictionary-based methods for examining morality in text? In _Proceedings of Natural Language Processing for Digital Humanities (NLP4DH 2025)_, ([pdf]())
 
-* Noel Chia, Ines Rehbein, Simone Paolo Ponzetto (2025): Investigating the effectiveness of Data Augmentation and Contrastive Learning for Named Entity Recognition. In _NoDaLiDa/Baltic-HLT 2025_, ([pdf](https://dspace.ut.ee/items/fd6a0472-22c1-4f16-8ba1-6cedf252f4a4))
+* Noel Chia, Ines Rehbein, Simone Paolo Ponzetto (2025): Investigating the effectiveness of Data Augmentation and Contrastive Learning for Named Entity Recognition. In _NoDaLiDa/Baltic-HLT 2025_, ([html](https://dspace.ut.ee/items/fd6a0472-22c1-4f16-8ba1-6cedf252f4a4), [pdf](https://dspace.ut.ee/bitstreams/01a0b648-beb6-49dc-98bc-7aaa15d75a64/download))
   
 * Ines Reinig, Maria Becker, Ines Rehbein, Simone Paolo Ponzetto (2024): A Survey on Modelling Morality for Text Analysis. In _Findings of the Association for Computational Linguistics ACL 2024_. Bangkok, Thailand. ([html](https://aclanthology.org/2024.findings-acl.245/), [pdf](https://aclanthology.org/2024.findings-acl.245.pdf))
 
